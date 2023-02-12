@@ -25,6 +25,9 @@ module.exports = {
       },
       fontWeight: {
         bold: 800
+      },
+      boxShadow: {
+        dice: '0 0 30px 2px hsl(150, 100%, 66%)'
       }
     },
   },
